@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoslingLovelaceApplication</string>
+    <string name="ada">埃达·洛夫莱斯</string>
+    <string name="adacontent">洛夫莱斯伯爵夫人奥古斯塔·埃达·金·诺尔（Augusta Ada King-Noel, Countess of Lovelace，1815年12月10日－1852年11月27日），原姓拜伦（Byron），是一位英国数学家兼作家，代表作是她为查尔斯·巴贝奇的分析机——机械式通用计算机——所写的作品。她是第一位主张计算机不只可以用来算数的人，也发表了第一段分析机用的算法。因此，埃达被公认为史上第一位认识计算机完全潜能的人，也是史上第一位计算机程序员。[1][2][3]</string>
+    <string name="james">詹姆斯·高斯林</string>
+    <string name="jamescontent">James Gosling获得了卡尔加里大学的理学学士学位[4]和他的M.A.和博士学位。 来自卡内基梅隆大学，全部是计算机科学。[2] [5] [6] 他在攻读博士学位期间写了一个名为Gosling Emacs（Gosmacs）的Emacs版本。 在加入Sun Microsystems之前，他在卡内基梅隆大学为一个16路计算机系统[7]构建了一个多处理器版本的Unix。 他还在那里开发了几个编译器和邮件系统。</string>
+</resources>
